@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 2px solid red;
+}
+
+body {
+    font-family: "Brush Script MT";
+}
+
+h1 {
+    background-color: darkslategray;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: darkgray;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    background-color: lightgray;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
